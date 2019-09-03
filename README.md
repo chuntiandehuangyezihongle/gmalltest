@@ -1,4 +1,3 @@
 # gmalltest
-通过IDEA提交，推送到github
+第二次commit,push..
 
-我第二次推送到了github...
